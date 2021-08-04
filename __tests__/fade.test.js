@@ -1,5 +1,4 @@
-import { fadeIn } from '../src/js/fadeIn'
-import { fadeOut } from '../src/js/fadeOut'
+import { fadeIn, fadeOut } from '../src/js/fade'
 
 describe.each([
   { type: 'in', fade: fadeIn },
