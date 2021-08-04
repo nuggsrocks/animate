@@ -19,5 +19,4 @@ export const fadeIn = (element, time) => {
   }
 
   fade()
-
 }
