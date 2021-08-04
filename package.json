@@ -2,7 +2,7 @@
   "name": "animate",
   "version": "1.0.0",
   "description": "js library for animating transitions",
-  "main": "index.js",
+  "main": "src/js/index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",

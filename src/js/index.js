@@ -1,1 +1,3 @@
-export {fadeIn, fadeOut} from './fade'
+import {fadeIn, fadeOut} from './fade'
+
+export default {fadeIn, fadeOut}
