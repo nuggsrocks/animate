@@ -1,0 +1,25 @@
+{
+  "name": "animate",
+  "version": "1.0.0",
+  "description": "js library for animating transitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuggsrocks/animate.git"
+  },
+  "author": "nuggsrocks <nuggsrocks@yahoo.com> (https://github.com/nuggsrocks/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuggsrocks/animate/issues"
+  },
+  "homepage": "https://github.com/nuggsrocks/animate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9",
+    "jest": "^27.0.6"
+  }
+}
